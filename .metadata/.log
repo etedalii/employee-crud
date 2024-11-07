@@ -1,0 +1,26 @@
+!SESSION 2024-11-06 22:43:18.308 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/etedali/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/etedali/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-06 22:43:19.877
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-06 22:43:39.438
+!MESSAGE Logback config file: /Users/etedali/projects/employee-crud/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-11-07 12:57:21.722 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/etedali/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/etedali/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-07 12:57:22.888
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-07 12:57:29.632
+!MESSAGE Logback config file: /Users/etedali/projects/employee-crud/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
